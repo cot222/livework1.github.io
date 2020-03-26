@@ -1,0 +1,36 @@
+.svg-Arrow {
+	background: url("svg/sprite.css-286be554.svg") 10.185185185185185% 97.0873786407767% no-repeat;
+}
+
+.svg-Arrow-dims {
+	width: 8px;
+	height: 5px;
+}
+
+.svg-Shape {
+	background: url("svg/sprite.css-286be554.svg") 0 0 no-repeat;
+}
+
+.svg-Shape-dims {
+	width: 86.48px;
+	height: 100px;
+}
+
+.svg-Signup {
+	background: url("svg/sprite.css-286be554.svg") 99.52813902635516% 0 no-repeat;
+}
+
+.svg-Signup-dims {
+	width: 29.11px;
+	height: 100px;
+}
+
+.svg-Valid {
+	background: url("svg/sprite.css-286be554.svg") 0 100% no-repeat;
+}
+
+.svg-Valid-dims {
+	width: 11px;
+	height: 8px;
+}
+
